@@ -1,0 +1,14 @@
+【2019-06-17 23:06:06】
+订单号：20190617230522509751
+通知地址：http://www.nlczf.com:2019/WFTCXCZNotify/WXNotify
+通知报文：memberid=10088&orderid=1bb087f7-f440-4981-8ead-9ee8747a682f&transaction_id=20190617230522509751&amount=1.0000&datetime=20190617230606&returncode=00&sign=71F2837A5B9943CD5C350BC7CB5DA259&attach=
+HTTP状态：
+返回：OK
+
+【2019-06-17 23:09:08】
+订单号：20190617230844994952
+通知地址：http://www.nlczf.com:2019/WFTCXCZNotify/WXNotify
+通知报文：memberid=10088&orderid=6423b819-5ff8-4cc1-92c4-9b3077b50aeb&transaction_id=20190617230844994952&amount=1.0000&datetime=20190617230908&returncode=00&sign=F94B88B11B86928156CB95EE6C062E67&attach=
+HTTP状态：
+返回：OK
+

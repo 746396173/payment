@@ -1,0 +1,420 @@
+【2019-06-19 11:10:02】
+订单号：20190619105051985649
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191050145d09a2e680464&transaction_id=20190619105051985649&amount=100.0000&datetime=20190619110958&returncode=00&sign=DF8FEAE668DFF0AE1C446F10760E7978&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 11:28:14】
+订单号：20190619111321494810
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191112445d09a82c09ceb&transaction_id=20190619111321494810&amount=100.0000&datetime=20190619112812&returncode=00&sign=A29E15DF8B651A3992E3C1ABD5B514C2&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 11:45:28】
+订单号：20190619114500999955
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191144235d09af97b8cfe&transaction_id=20190619114500999955&amount=1000.0000&datetime=20190619114524&returncode=00&sign=81FBCCF14F00C2C5F6ECE63B1F1DB056&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 11:53:03】
+订单号：20190619115244994997
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191152075d09b1670ccc0&transaction_id=20190619115244994997&amount=1000.0000&datetime=20190619115258&returncode=00&sign=D5CA8CD89EE99CB46A1DC19E9611D18A&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 11:53:20】
+订单号：20190619115255559898
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191152185d09b172a28d4&transaction_id=20190619115255559898&amount=100.0000&datetime=20190619115317&returncode=00&sign=5A4F0F45AABF65B22B791C315675BE37&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 12:29:52】
+订单号：20190619112035515048
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191119585d09a9de1917a&transaction_id=20190619112035515048&amount=150.0000&datetime=20190619122949&returncode=00&sign=18D8004594C8B3D665800349A5903176&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 12:42:33】
+订单号：20190619124214545699
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191241375d09bd016d4d5&transaction_id=20190619124214545699&amount=5000.0000&datetime=20190619124230&returncode=00&sign=A90EAEAAD6CB43627134C1F4C39F1D55&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 12:44:02】
+订单号：20190619124300521005
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191242235d09bd2fb90e5&transaction_id=20190619124300521005&amount=1000.0000&datetime=20190619124358&returncode=00&sign=B6FF346C15EF1F4D3D8FA3473602C49F&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 14:31:06】
+订单号：20190619142915981009
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191428385d09d616a628d&transaction_id=20190619142915981009&amount=500.0000&datetime=20190619143102&returncode=00&sign=5CCDE4B46D77962FA2DDF2D35D5E10AA&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 15:02:30】
+订单号：20190619150211519710
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191501345d09ddce62ffe&transaction_id=20190619150211519710&amount=0.1000&datetime=20190619150230&returncode=00&sign=430FF138E7837C39B0B7CB4081120726&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 15:04:19】
+订单号：20190619150350545255
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191503125d09de30f373f&transaction_id=20190619150350545255&amount=100.0000&datetime=20190619150416&returncode=00&sign=61C86C36F8373806B64E22383A9F7488&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 15:29:45】
+订单号：20190619152921495297
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191528435d09e42bf1e3b&transaction_id=20190619152921495297&amount=535.0000&datetime=20190619152939&returncode=00&sign=D1660B6A9A9599A632FAF4DDD5694365&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 15:38:05】
+订单号：20190619153746974955
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191537085d09e624c6221&transaction_id=20190619153746974955&amount=100.0000&datetime=20190619153802&returncode=00&sign=F9DDA18EBB401F96FF03CD5F3AFFEA8D&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 15:53:09】
+订单号：20190619155248481025
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191552115d09e9ab9df75&transaction_id=20190619155248481025&amount=1500.0000&datetime=20190619155306&returncode=00&sign=D4CBABDEB6D750773DB2C5CD864A667F&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 16:38:17】
+订单号：20190619163734101571
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191636575d09f4293ded0&transaction_id=20190619163734101571&amount=100.0000&datetime=20190619163814&returncode=00&sign=4D1F6EAC1F971A9C19BC5B62B892CB94&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 16:43:24】
+订单号：20190619164309100505
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191642315d09f577c593c&transaction_id=20190619164309100505&amount=0.1000&datetime=20190619164324&returncode=00&sign=F661187CB185C87E0AD83159ABE856C0&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 16:45:16】
+订单号：20190619164458975310
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191644205d09f5e500d05&transaction_id=20190619164458975310&amount=100.0000&datetime=20190619164514&returncode=00&sign=1C0EC586495B8A7984B5B102F56B3CEF&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 16:45:53】
+订单号：20190619164543559799
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191645065d09f61253e7a&transaction_id=20190619164543559799&amount=0.1000&datetime=20190619164553&returncode=00&sign=41011C7974E19F31D29FB1D2F019A8BB&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 16:47:57】
+订单号：20190619164731515497
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191646545d09f67e0f07d&transaction_id=20190619164731515497&amount=999.0000&datetime=20190619164753&returncode=00&sign=F87E65C5E81D6FBA93792F165F69A6E0&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 16:59:56】
+订单号：20190619165923984857
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191658455d09f945a05a6&transaction_id=20190619165923984857&amount=100.0000&datetime=20190619165953&returncode=00&sign=89F223807130EACF4A6E1F976CE462E5&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 17:06:37】
+订单号：20190619170600565254
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191705225d09fad2dd12c&transaction_id=20190619170600565254&amount=2600.0000&datetime=20190619170634&returncode=00&sign=B79DA691BBE99216AB7F5A7DE4B96485&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 17:33:14】
+订单号：20190619173207554848
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191731295d0a00f18ed20&transaction_id=20190619173207554848&amount=4433.0000&datetime=20190619173308&returncode=00&sign=023EED6F11E3CBF4DD6E775267EB36A7&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 17:35:02】
+订单号：20190619173207554848
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191731295d0a00f18ed20&transaction_id=20190619173207554848&amount=4433.0000&datetime=20190619173502&returncode=00&sign=9CCBAABB97E688D350ECDC0023258DFF&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 17:40:05】
+订单号：20190619173917539750
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191738405d0a02a033a4d&transaction_id=20190619173917539750&amount=2300.0000&datetime=20190619173959&returncode=00&sign=66F86E16A1770866BEA5D12291926214&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 17:43:52】
+订单号：20190619174332525210
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191742545d0a039edba5a&transaction_id=20190619174332525210&amount=100.0000&datetime=20190619174349&returncode=00&sign=CCBE06F995E6D8104744A036C8484546&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 17:47:40】
+订单号：20190619174624481015
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191745475d0a044b7ee48&transaction_id=20190619174624481015&amount=1000.0000&datetime=20190619174737&returncode=00&sign=375CD7B40C007EF9A64F6C71ABB71616&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 17:51:06】
+订单号：20190619175030545510
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191749535d0a054112de4&transaction_id=20190619175030545510&amount=100.0000&datetime=20190619175103&returncode=00&sign=09EED82DF3E67A8D1C0D269FD00E9BCA&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:05:39】
+订单号：20190619180457574956
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191804195d0a08a396048&transaction_id=20190619180457574956&amount=100.0000&datetime=20190619180536&returncode=00&sign=A21802E3EFDA51517B22CD248C8D1F7A&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:13:33】
+订单号：20190619181310545755
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191812335d0a0a9120885&transaction_id=20190619181310545755&amount=490.0000&datetime=20190619181329&returncode=00&sign=9CD22D3BB7DA3F2F30441D62EBD34AAD&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:30:29】
+订单号：20190619182957535410
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191829195d0a0e7fe8258&transaction_id=20190619182957535410&amount=0.1000&datetime=20190619183029&returncode=00&sign=E0E66229619C798273D43B0BEC35B19A&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:34:05】
+订单号：20190619183329571015
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191832525d0a0f546d235&transaction_id=20190619183329571015&amount=200.0000&datetime=20190619183402&returncode=00&sign=A01BB9960A6AA243E175A9B69EB4BC4F&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:35:08】
+订单号：20190619183133535510
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191830565d0a0ee00d46b&transaction_id=20190619183133535510&amount=100.0000&datetime=20190619183505&returncode=00&sign=B34D2948EAF21B5C0CFC15482E754A04&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:35:41】
+订单号：20190619183511102494
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191834335d0a0fb992725&transaction_id=20190619183511102494&amount=2000.0000&datetime=20190619183538&returncode=00&sign=81762381F3522282DE63078F05DFDB53&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:36:45】
+订单号：20190619183520564851
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191834425d0a0fc2819e4&transaction_id=20190619183520564851&amount=0.1000&datetime=20190619183645&returncode=00&sign=C22544585D08B251B2A045EA748A740A&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:37:30】
+订单号：20190619183712561005
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191836355d0a10335ed97&transaction_id=20190619183712561005&amount=0.1000&datetime=20190619183730&returncode=00&sign=247B526F907A8C0A7E1CC23B22FF375F&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:45:07】
+订单号：20190619184447102545
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191844095d0a11f9dfc9d&transaction_id=20190619184447102545&amount=100.0000&datetime=20190619184503&returncode=00&sign=0044652CC5E4B9FCFAB91B2546212A00&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:45:50】
+订单号：20190619184523515751
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191844465d0a121e14689&transaction_id=20190619184523515751&amount=108.0000&datetime=20190619184547&returncode=00&sign=C1842FACCFEE2EA53E1AD6241272171E&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:47:16】
+订单号：20190619183325535257
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191832475d0a0f4fcd10a&transaction_id=20190619183325535257&amount=808.0000&datetime=20190619184712&returncode=00&sign=F2C0382ACC9FD1819D40A642493BD054&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:51:07】
+订单号：20190619185041491019
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191850045d0a135c72b33&transaction_id=20190619185041491019&amount=1000.0000&datetime=20190619185103&returncode=00&sign=B219D2FFC7E65D2AE49EDCA13EE45EF7&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:53:23】
+订单号：20190619185304489857
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191852275d0a13eb3d143&transaction_id=20190619185304489857&amount=100.0000&datetime=20190619185319&returncode=00&sign=D20BD63DC2D43BB1975DA9A327AE9A70&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:57:27】
+订单号：20190619185700995110
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191856225d0a14d6b98f6&transaction_id=20190619185700995110&amount=208.0000&datetime=20190619185724&returncode=00&sign=CDEB55B73A3FCB101EC6B810B30FDD05&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 18:58:21】
+订单号：20190619185747985450
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191857095d0a1505da1db&transaction_id=20190619185747985450&amount=100.0000&datetime=20190619185817&returncode=00&sign=0E9FFEEF0205E4CE2C439D4F0191BF29&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:07:33】
+订单号：20190619190650979856
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191906135d0a17253d946&transaction_id=20190619190650979856&amount=1000.0000&datetime=20190619190729&returncode=00&sign=E5C88C92BEFCA1FEBB8DD66A6B69824D&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:19:00】
+订单号：20190619191712565110
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191916345d0a1992b5038&transaction_id=20190619191712565110&amount=2999.0000&datetime=20190619191856&returncode=00&sign=C5F33A7000BC647A75616540456F0FCB&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:28:28】
+订单号：20190619192738971019
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191927015d0a1c0564ff3&transaction_id=20190619192738971019&amount=101.0000&datetime=20190619192826&returncode=00&sign=28DF74480B2800F86767E76C382FAEF1&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:32:22】
+订单号：20190619193200489857
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191931235d0a1d0b37fab&transaction_id=20190619193200489857&amount=100.0000&datetime=20190619193219&returncode=00&sign=C89245231B112B5EBDD73964E86EB356&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:33:09】
+订单号：20190619193240569950
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191932035d0a1d333fd7c&transaction_id=20190619193240569950&amount=120.0000&datetime=20190619193306&returncode=00&sign=D3844834649D7143D0714DED29BF28CC&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:33:21】
+订单号：20190619193301100544
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191932235d0a1d47d3706&transaction_id=20190619193301100544&amount=5000.0000&datetime=20190619193317&returncode=00&sign=A451A98A6B0BD4BCFC5EAAD190AB99F6&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:33:42】
+订单号：20190619193324525351
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191932465d0a1d5ec4f8b&transaction_id=20190619193324525351&amount=4600.0000&datetime=20190619193339&returncode=00&sign=46A50E7051D1C80E90019736BFA8D601&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:34:24】
+订单号：20190619192409571005
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191923325d0a1b34559c6&transaction_id=20190619192409571005&amount=3000.0000&datetime=20190619193421&returncode=00&sign=8AE3BE470C795D4534BBFE9CCCE64D9C&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:37:44】
+订单号：20190619193649495710
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191936125d0a1e2c1b067&transaction_id=20190619193649495710&amount=1000.0000&datetime=20190619193740&returncode=00&sign=9649E1CAC27F4066DAD69B4C9AE3E75F&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:39:08】
+订单号：20190619193752489710
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191937155d0a1e6b29ddd&transaction_id=20190619193752489710&amount=277.0000&datetime=20190619193905&returncode=00&sign=AE49252E85C11896C6AF857F9CFCE746&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 19:45:14】
+订单号：20190619194450501025
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06191944125d0a200c5dadb&transaction_id=20190619194450501025&amount=458.0000&datetime=20190619194511&returncode=00&sign=DA746E5BD05A50B605CED52F39060659&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 20:05:56】
+订单号：20190619200538505451
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06192005005d0a24eccc314&transaction_id=20190619200538505451&amount=0.1000&datetime=20190619200556&returncode=00&sign=B60D65230FF698444AE052D4875A0703&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 20:20:48】
+订单号：20190619202031102551
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06192019535d0a2869e22b4&transaction_id=20190619202031102551&amount=2000.0000&datetime=20190619202045&returncode=00&sign=30FC29787D215FD2C6429D039A0312E3&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 20:57:18】
+订单号：20190619205000569910
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06192049175d0a2f4df087c&transaction_id=20190619205000569910&amount=3000.0000&datetime=20190619205714&returncode=00&sign=4CF980B4758E9C8F59B4B723F4424E3D&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 21:02:41】
+订单号：20190619210214545453
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06192101365d0a3230b9b5f&transaction_id=20190619210214545453&amount=1000.0000&datetime=20190619210238&returncode=00&sign=4085644F9CAC032EA5E0E90AE7CB3C7A&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 21:18:13】
+订单号：20190619211739511001
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06192117025d0a35ce415d4&transaction_id=20190619211739511001&amount=100.0000&datetime=20190619211810&returncode=00&sign=54EA50DF96A30F0D587AFB7F694C939B&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 21:29:15】
+订单号：20190619212817495356
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06192127395d0a384ba85da&transaction_id=20190619212817495356&amount=200.0000&datetime=20190619212910&returncode=00&sign=9CB0C96D1F808F6CEDDB2988D8D36FB3&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2019-06-19 22:00:26】
+订单号：20190619214819519749
+通知地址：http://api.kaixuanpay.net:82/App.CallBack.NotifyUrl_Vft
+通知报文：memberid=10086&orderid=F06192147415d0a3cfde5b1c&transaction_id=20190619214819519749&amount=120.0000&datetime=20190619220023&returncode=00&sign=78610004B9A9E49CD650E06A053E2036&attach=1234|456
+HTTP状态：
+返回：OK
+
