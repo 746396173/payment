@@ -23,7 +23,7 @@ class BaseController extends Controller
         if (C('LOGINNAME') != trim(__SELF__, '/')) {
             //查询默认的模板，修改前段的模板
             $theme       = M('Template')->where(['is_default' => 1])->getField('theme');
-            $this->theme = $theme ? $theme : 'default';
+            $this->theme = $theme ? $theme : 'defalut';
             C('DEFAULT_THEME', $this->theme);
             $style = '/Public/theme/' . $this->theme . '/';
 

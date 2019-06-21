@@ -101,7 +101,7 @@ layui.use(['layer', 'form'], function(){
 	is_default = this.checked ? 1 : 0,
 	title = $(this).attr('data-name');
 	$.ajax({
-		url:"<{:U('Template/editDefault')}>",
+		url:"<{:U('Template/editDefalut')}>",
 		type:'post',
 		data:"id="+id+"&is_default="+is_default,
 		success:function(res){

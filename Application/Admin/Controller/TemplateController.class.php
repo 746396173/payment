@@ -20,7 +20,7 @@ class TemplateController extends BaseController
         $this->display();
     }
 
-    public function editDefault()
+    public function editDefalut()
     {
         if (IS_AJAX && IS_POST) {
             $id        = I('post.id', '');

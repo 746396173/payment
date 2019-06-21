@@ -26153,7 +26153,7 @@ UE.ui = baidu.editor.ui = {};
                             var checked = target.checked,
                                 radioTd = document.getElementById( target.name + 'Value' + editorId),
                                 radios = radioTd.getElementsByTagName('input'),
-                                defaultSelect = {
+                                defalutSelect = {
                                     'imageBlockLine': 'none',
                                     'textAlign': 'left',
                                     'symbolConver': 'tobdc'
@@ -26161,7 +26161,7 @@ UE.ui = baidu.editor.ui = {};
 
                             for (var i = 0; i < radios.length; i++) {
                                 if (checked) {
-                                    if (radios[i].value == defaultSelect[target.name]) {
+                                    if (radios[i].value == defalutSelect[target.name]) {
                                         radios[i].checked = 'checked';
                                     }
                                 } else {
